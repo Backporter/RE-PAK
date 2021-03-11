@@ -4,4 +4,4 @@ UI Based Tool that allows for Previewing Textures on the fly, Extracting Paks, a
 
 ![screenshot](1.png)
 
-![screenshot](3.png)
+![screenshot](2.png)
