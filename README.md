@@ -3,6 +3,7 @@ UI Based Tool that allows for Previewing (PC)Textures on the fly, Extracting Pak
 
 # Notes Before You Get Started
 * For PAK Creation you do need the orginal PAKs extracted from the platform you intend to create them for(PC => PC, PS4 => PS4) **They Are Not Substitutable With Different Platform PAKS SO DO NOT TRY AND MIX THEM**
+* Example PAKs can be found in this repo.
 
 # Requirements
 * Extracted Game PC/PS4
