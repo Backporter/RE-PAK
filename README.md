@@ -21,7 +21,7 @@ PC => ![screenshot](https://cdn.discordapp.com/attachments/710333682749276283/82
 PS4 => ![screenshot](https://cdn.discordapp.com/attachments/710333682749276283/820689648866033675/RESIDENT_EVIL_2_20210314132228.jpg)
 
 # meshes:
-Mod: "Krypton Nanotech Suit" - https://www.nexusmods.com/residentevil22019/mods/599?
+Mod: "Krypton Nanotech Suit" - https://www.nexusmods.com/residentevil22019/mods/599? created by Wiwilz
 
 PS4 => ![screenshot](https://cdn.discordapp.com/attachments/710333682749276283/821302928899571712/RESIDENT_EVIL_2_20210316060005.jpg)
 
