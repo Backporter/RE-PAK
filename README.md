@@ -10,7 +10,7 @@ UI Based Tool that allows for Previewing (PC)Textures on the fly, Extracting Pak
 * [SSE-Fallout-4-Texture-Converter](https://github.com/Backporter/SSE-Fallout-4-Texture-Converter - for textures
 
 # Using PAK Creator
-Generate the required database for the files you want to pack via the "Generate Database From Directory", than open PAK Creatior select open/save, pick the database you generated, pick the orginal pak that contains the info on the assets(you can select more than one), than select the path you want to save your pak at, click create and it will create it, place that pak in the game with the currect name, and it should load as shown below.
+Generate the required database for the files you want to pack via the "Generate Database From Directory"(Whem using this make sure you select the native folder only), than open PAK Creatior select open/save, pick the database you generated, pick the orginal pak that contains the info on the assets(you can select more than one), than select the path you want to save your pak at, click create and it will create it, place that pak in the game with the currect name, and it should load as shown below.
 
 # Proof Of It Working:
 
