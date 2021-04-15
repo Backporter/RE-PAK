@@ -1,16 +1,17 @@
 # RE-PAK
-UI Based Tool that allows for Previewing (PC)Textures on the fly, Extracting Paks, and hopefully in creating PAKs
+UI Based Tool that allows for Previewing (PC)Textures on the fly, Extracting Paks, and Creating PAKs AND modding other platforms(PS4)
 
 # Notes Before You Get Started
 * For PAK Creation you do need the orginal PAKs extracted from the platform you intend to create them for(PC => PC, PS4 => PS4) **They Are Not Substitutable With Different Platform PAKS SO DO NOT TRY AND MIX THEM**
+* Mods that replace DLC Outfits will not work on the PS4 from my testing, so make sure you read the mod page.
 * Example PAKs can be found in this repo, thier credits will be inside the zip in a text document or posted below
 
 # Requirements
 * Extracted Game PC/PS4
-* [SSE-Fallout-4-Texture-Converter](https://github.com/Backporter/SSE-Fallout-4-Texture-Converter - for textures
+* [PS4-RE-TEX](https://github.com/Backporter/PS4-RE-TEX) - For PS4 Textures.
 
 # Using PAK Creator
-Generate the required database for the files you want to pack via the "Generate Database From Directory"(Whem using this make sure you select the native folder only), than open PAK Creatior select open/save, pick the database you generated, pick the orginal pak that contains the info on the assets(you can select more than one), than select the path you want to save your pak at, click create and it will create it, place that pak in the game with the currect name, and it should load as shown below.
+Open the PAK Creatior select open/save, pick the orginal paks from the game, click Create and it will create it, place the two generated paks in the game with the currect name, and it should load as shown below.
 
 # Proof Of It Working:
 
@@ -21,7 +22,7 @@ PC => ![screenshot](https://cdn.discordapp.com/attachments/710333682749276283/82
 
 PS4 => ![screenshot](https://cdn.discordapp.com/attachments/710333682749276283/820689648866033675/RESIDENT_EVIL_2_20210314132228.jpg)
 
-# meshes:
+# Meshes:
 Mod: "Krypton Nanotech Suit" - https://www.nexusmods.com/residentevil22019/mods/599? created by Wiwilz
 
 PS4 => ![screenshot](https://cdn.discordapp.com/attachments/710333682749276283/821302928899571712/RESIDENT_EVIL_2_20210316060005.jpg)
@@ -30,11 +31,27 @@ Mod: "Leon RE4 Hair" https://www.nexusmods.com/residentevil22019/mods/621? creat
 
 PS4 => ![screenshot](https://cdn.discordapp.com/attachments/710333682749276283/820911804284534834/RESIDENT_EVIL_2_20210315040515.jpg)
 
+# Other Stuff:
+
+RE3 Mods Running on the PS4:
+
+Mod: "Reika" https://www.nexusmods.com/residentevil32020/mods/324 created by ES47_also_known_ as_Dedraz
+
+PS4 => ![screenshot](https://cdn.discordapp.com/attachments/710333682749276283/831847171938582548/RESIDENT_EVIL_3_20210414082030.jpg)
+
 # Change Log:
 
 1.0 Base.
 
 2.0 Added PAK Creation and other options.
+
+3.0 Fixed a few bugs
+
+4.0 Small un-notable changes
+
+5.0 Changed the way the Paks are created, Optomised data storing of Pak info this will speed pak creating up a bit.
+
+5.1 Removed the need for a database, the program will automaticly generate it and use it, fixed a bug that would cause an exception if the user didn't provide a proper path for  the hash list.
 
 # Screenshots of the App:
 
