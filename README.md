@@ -53,6 +53,8 @@ PS4 => ![screenshot](https://cdn.discordapp.com/attachments/710333682749276283/8
 
 5.1 Removed the need for a database, the program will automaticly generate it and use it, fixed a bug that would cause an exception if the user didn't provide a proper path for  the hash list.
 
+5.2 Changed the Previewer to support all Tex's
+
 # Screenshots of the App:
 
 ![screenshot](0.png)
