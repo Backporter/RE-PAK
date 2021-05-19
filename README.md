@@ -13,6 +13,8 @@ UI Based Tool that allows for Previewing (PC)Textures on the fly, Extracting Pak
 # Using PAK Creator
 Open the PAK Creatior select open/save, pick the orginal paks from the game, click Create and it will create it, place the two generated paks in the game with the currect name, and it should load as shown below.
 
+# [Video Tutorial](https://youtu.be/RUMiRqHjaqg)
+
 # Proof Of It Working:
 
 # Textures:
