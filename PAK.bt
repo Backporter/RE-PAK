@@ -1,0 +1,34 @@
+//------------------------------------------------
+//--- 010 Editor v11.0.1 Binary Template
+//
+//      File: PAK.bt
+//   Authors: kernel, 
+//   Version: 1.0
+//   Purpose: Parsing RE Engine PAKs
+//  Category: Modding
+// File Mask: *.pak*
+//  ID Bytes: 4B 50 4B 41
+//   History: 1.0
+//------------------------------------------------
+local uint i;
+struct {
+    struct {
+       char FourCC[4];
+       uint PAK_Version;
+       uint EntryCount;
+       uint unk;
+  } Header <bgcolor=cLtRed>;
+  for (i = 0; i < Header.EntryCount; i++)
+  {
+      struct {
+      uint32 NAME_CRC_L;
+      uint32 NAME_CRC_U;
+      uint64 Offset <format=hex>;
+      uint64 compressedSize;
+      uint64 realSize;
+      uint64 flag;
+      uint unk;
+      uint unk;
+     } EntryInfo <bgcolor=cLtGreen>;
+  }
+} PAK;
