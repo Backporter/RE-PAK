@@ -35,11 +35,17 @@ PS4 => ![screenshot](https://cdn.discordapp.com/attachments/710333682749276283/8
 
 # Other Stuff:
 
-RE3 Mods Running on the PS4:
+# RE3 Mods Running on the PS4:
 
 Mod: "Reika" https://www.nexusmods.com/residentevil32020/mods/324 created by ES47_also_known_ as_Dedraz
 
-PS4 => ![screenshot](https://cdn.discordapp.com/attachments/710333682749276283/831847171938582548/RESIDENT_EVIL_3_20210414082030.jpg)
+PS4 => (https://cdn.discordapp.com/attachments/710333682749276283/831847171938582548/RESIDENT_EVIL_3_20210414082030.jpg)
+
+# RE8 Mods Running on the PS4:
+
+Mod: "Lady Wong" created by EvilLord aka Stevebg23 **RE***
+
+PS4 => ![screenshot](https://cdn.discordapp.com/attachments/718252742358859777/922597717736296510/Resident_Evil_Village_20211220161918.jpg)
 
 # Change Log:
 
