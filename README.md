@@ -2,6 +2,7 @@
 UI Based Tool that allows for Previewing (PC)Textures on the fly, Extracting Paks, and Creating PAKs AND modding other platforms(PS4)
 
 # Notes Before You Get Started
+* you do NOT need a pak-iist to create a pak for other platforms, all you need is the orginal game paks(not even that, just use the ones given in this repo under Platform Metadata)
 * For PAK Creation you do need the orginal PAKs extracted from the platform you intend to create them for(PC => PC, PS4 => PS4) **They Are Not Substitutable With Different Platform PAKS SO DO NOT TRY AND MIX THEM**
 * Mods that replace DLC Outfits will not work on the PS4 from my testing, so make sure you read the mod page.
 * Example PAKs can be found in this repo, thier credits will be inside the zip in a text document or posted below
